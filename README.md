@@ -11,6 +11,7 @@ práctica de laboratorio realizada.
 # Autores.
 
 * [Frederick Ernesto Borges Noronha](https://github.com/FrederickBor)
+* [Victor Manuel Cavero Gracia](https://github.com/victorcavero14)
 
 # Licencia.
 
