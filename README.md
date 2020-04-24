@@ -1,3 +1,5 @@
+[![GitHub license](LICENSE)](LICENSE)
+
 # Acerca de este repositorio.
 
 Este repositorio contiene los ejercicios realizados para 
