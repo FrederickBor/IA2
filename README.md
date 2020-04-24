@@ -39,8 +39,9 @@ Puede leer el PDF títulado [Practica2.pdf](Practica2/Practica2.pdf) para conoce
 
 # Autores.
 
-* [Frederick Ernesto Borges Noronha](https://github.com/FrederickBor)
-* [Victor Manuel Cavero Gracia](https://github.com/victorcavero14)
+
+* Frederick Ernesto Borges Noronha - ![GitHub followers](https://img.shields.io/github/followers/FrederickBor?label=%40FrederickBor&style=social)
+* Victor Manuel Cavero Gracia - ![GitHub followers](https://img.shields.io/github/followers/victorcavero14?label=%40victorcavero14&style=social)
 
 # Licencia.
 
