@@ -36,6 +36,16 @@ En esta carpeta encontrará dos ficheros `.ipynb` junto a una carpeta de datos l
 
 Puede leer el PDF títulado [Practica2.pdf](Practica2/Practica2.pdf) para conocer el enunciado suministrado para realizar esta práctica.
 
+## Práctica 3.
+
+En esta carpeta encontrará un fichero `.ipynb` en el cual se encuentran diferentes consultas con sparql.
+
+Puede leer el PDF títulado [Practica3.pdf](Practica3/Practica3.pdf) para conocer el enunciado suministrado para realizar esta práctica.
+
+## Práctica 4.
+
+En esta carpeta encontrará un fichero `.ipynb` junto a otros para relizar la practica que se describe en el PDF títulado [Practica4.pdf](Practica4/Practica4.pdf), el cual contiene el enunciado suministrado para realizar esta práctica.
+
 # Autores.
 
 
